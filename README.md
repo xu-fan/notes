@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [Java se](#java se)
+- [java se](#javase)
     - [java基础](#java基础)
     - [java高级](#java高级)
     - [java面向对象](#java面向对象)
