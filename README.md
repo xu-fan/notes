@@ -5,11 +5,13 @@
 ## Java
 - [java se](#javase)
     - [java 基础](#java基础)
+    - [java 集合框架](#java集合)
     - [java I/O](#javaIO)
-    - [jvm](#jvm)
-    - [java 高级](#java高级)
-    - [java 面向对象](#java面向对象)
-- [java后端](#java后端)
+    - [java 虚拟机](#jvm)
+    - [java 并发编程](#java多线程)
+    - [java 设计模式](#java设计模式)
+    - [java 常用类](#java常用类)
+- [java ee](#java后端)
 
 
 
